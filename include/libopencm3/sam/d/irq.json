@@ -27,9 +27,7 @@
         "ac",
         "dac",
         "ptc",
-        "i2s",
-	"ac1",
-	"tcc3"
+        "i2s"
     ],
     "partname_humanreadable": "Atmel SAMD series",
     "partname_doxygen": "SAMD",
